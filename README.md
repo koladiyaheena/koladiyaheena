@@ -61,15 +61,26 @@ Built a small GPT-style language model by following the fundamentals of transfor
 
 🔗 [View Project on GitHub](https://github.com/koladiyaheena/MiniGPT-From-Scratch-)
 
-### 2. International Education Cost Prediction
-A machine learning project that predicts international education costs using details such as country, university, and city.
+### 2. AI Study Assistant
+Developed a Generative AI-based web application that helps students automatically generate personalized study materials.
 
-**Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+-Allows students to enter a topic and select a difficulty level: Beginner or Advanced.
+-Uses a Conditional Chain to generate explanations based on the selected difficulty level.
+-Uses a Parallel Chain to generate short notes and important key points simultaneously.
+-Uses a Pydantic Output Parser to generate structured quiz questions and answers.
+-Uses Llama 3.2 locally through Ollama.
+-Displays explanations, notes, key points, and quiz questions through a Streamlit interface.
 
-### 3. Concrete Compressive Strength Prediction
-A machine learning regression project focused on predicting concrete compressive strength.
+**Technologies**: Python, LangChain, Ollama, Llama 3.2, Streamlit, Pydantic
 
-**Technologies:** Python, Pandas, Scikit-learn
+### 3. International Education Cost Prediction
+Developed a machine learning project that predicts international education costs using details such as country, university, and city.
+
+-Processes input data using Pandas.
+-Uses machine learning techniques to predict education costs.
+-Visualizes and analyzes data to understand patterns.
+
+**Technologies** : Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
